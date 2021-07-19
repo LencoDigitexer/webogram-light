@@ -10,8 +10,11 @@ switch (location.hostname) {
   case 'zhukov.github.io':
     defaultBaseUrl = 'https://zhukov.github.io/webogram/#/im'
     break
-  case 'lencodigitexer.github.io':
-    defaultBaseUrl = 'https://lencodigitexer.github.io/webogram-light/#/im'
+  case 'lencodigitexer.games':
+    defaultBaseUrl = 'https://lencodigitexer.games/#/im'
+    break
+  case '185.219.41.63':
+    defaultBaseUrl = 'https://http://185.219.41.63/#/im'
     break
   default:
   case 'web.telegram.org':

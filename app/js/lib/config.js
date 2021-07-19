@@ -21,7 +21,7 @@ Config.App = {
   id: 2496,
   hash: '8da85b0d5bfe62527e5b244c209159c3',
   version: '0.7.0',
-  domains: ['web.telegram.org', 'zhukov.github.io', 'lencodigitexer.github.io']
+  domains: ['web.telegram.org', 'zhukov.github.io', 'lencodigitexer.games', '185.219.41.63']
 }
 
 Config.Modes = {
