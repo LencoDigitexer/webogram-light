@@ -14,7 +14,7 @@ switch (location.hostname) {
     defaultBaseUrl = 'https://lencodigitexer.games/#/im'
     break
   case '185.219.41.63':
-    defaultBaseUrl = 'https://http://185.219.41.63/#/im'
+    defaultBaseUrl = 'http://185.219.41.63/#/im'
     break
   default:
   case 'web.telegram.org':
